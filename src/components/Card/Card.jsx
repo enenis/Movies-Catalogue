@@ -4,7 +4,7 @@ import styles from './Card.style';
 function Card({items,goToDetail}) {
   return (
     <TouchableOpacity style={styles.container}  onPress={goToDetail}>
-
+//card section
         <View style={styles.submit}>
           <Text style={styles.title}>{items.Title}</Text>
           <TouchableOpacity style={styles.submit_button}></TouchableOpacity>
