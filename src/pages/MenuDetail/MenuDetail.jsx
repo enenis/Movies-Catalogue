@@ -5,6 +5,7 @@ function MenuDetail({route}) {
   const{second}=route.params
   return (
     <ScrollView style={styles.container}>
+    //after select, View page
         <Text style={styles.title}>{second.Title}</Text>
         <Image style={styles.image} source={{uri:second.Poster}}/>
         <Text style={styles.paragraf}><Text style={styles.text}>Description:</Text> {second.Plot}</Text>
