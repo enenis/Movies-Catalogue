@@ -22,7 +22,7 @@ function App({navigation}) {
   const renderShownStory=({item})=><StoryCard items={item} goToDetail={()=>goDetailPage(item)} />
   return (
     <View>
-     
+      //render section
       <FlatList style={{backgroundColor:"black"}} data={movies_data} renderItem={renderShownMovies} ListHeaderComponent={
         <FlatList  data={movies_data} renderItem={renderShownStory}  horizontal={true} showsHorizontalScrollIndicator={false}/>
       }  refreshControl={<RefreshControl refreshing={refresh} onRefresh={onRefresh}/>}/>
