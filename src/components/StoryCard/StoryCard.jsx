@@ -4,7 +4,7 @@ import styles from "./StoryCard.style"
 function StoryCard({items,goToDetail}) {
 
   return (
-    // Card section
+    //Card section
     <TouchableOpacity style={styles.container} onPress={goToDetail}>
         <Image style={styles.image} source={{uri:items.Poster}}/>
     </TouchableOpacity>
