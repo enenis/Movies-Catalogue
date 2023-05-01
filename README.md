@@ -1,5 +1,4 @@
 # Movies-Catalogue
-
 <b>Title:</b> React-Native-Instagram-Clone<br>
 <br>
 <b>Detail :</b> Hello, In this project i made an instagram clone! You can login and sign up.
@@ -22,5 +21,3 @@
 enenissoftware
 
 <hr>
-
-<b></b>
