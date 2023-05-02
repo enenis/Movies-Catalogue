@@ -10,7 +10,7 @@
 <img src="" width="370" height="800" />
 <br>
 <hr>
-<br><b>Menu Refresh Screen:<br></b>
+<br><b>... Screen:<br></b>
 <small>Updated!</small>
 <img src="" width="370" height="800" />
 <br>
