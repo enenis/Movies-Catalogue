@@ -4,7 +4,7 @@
 <b>Detail :</b> Hello, In this project i made an instagram clone! You can login and sign up.
 <hr>
 <b>Detailed Photo's:</b><br>
-<br><b>Menu Screen:<br></b>
+<br><b>... Screen:<br></b>
 <small>Updated!</small>
 <img src="" width="370" height="800" />
 <img src="" width="370" height="800" />
