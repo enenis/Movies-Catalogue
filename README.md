@@ -18,6 +18,5 @@
 
 <small>Thank you so much for reading and reviewing this far...</small><br>
 ~Enis Kayra Yavuz
-enenissoftware
-<b><\b>
+enenissoftware 
 <hr>
