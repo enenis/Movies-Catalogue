@@ -1,7 +1,7 @@
 # Movies-Catalogue
 <b>Title:</b> React-Native-Instagram-Clone<br>
 <br>
-<b>Detail :</b> Hello, In this project i made an instagram clone! You can login and sign up.
+<b>Detail :</b> Hello, In this project i made an Movie Catalogue! You can login and sign up.
 <hr>
 <b>Detailed Photo's:</b><br>
 <br><b>... Screen:<br></b>
